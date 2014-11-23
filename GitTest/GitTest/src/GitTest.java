@@ -10,4 +10,8 @@ public class GitTest {
 			System.out.println("Test 1 " + i);
 		}
 	}
+	
+	public static void test3(){
+		System.out.println("Test 3");
+	}
 }
